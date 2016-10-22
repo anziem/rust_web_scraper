@@ -1,0 +1,6 @@
+[package]
+name = "web_scraper"
+version = "0.1.0"
+authors = ["anziem <shopper137@gmail.com>"]
+
+[dependencies]
